@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Training outputs
+runs/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
